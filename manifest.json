@@ -1,0 +1,10 @@
+{
+  "Name": "WebServerCommands",
+  "Author": "AnotherPillow",
+  "Version": "1.0.0",
+  "Description": "Allow console commands to be ran via a webserver.",
+  "UniqueID": "AnotherPillow.WebServerCommands",
+  "EntryDll": "WebServerCommands.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
